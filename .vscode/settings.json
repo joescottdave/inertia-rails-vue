@@ -3,5 +3,6 @@
     "editor.defaultFormatter": "testdouble.vscode-standard-ruby",
     "editor.formatOnSave": true,
   },
+  "standardRuby.mode": "enableViaGemfile",
   "files.insertFinalNewline": true,
 }
