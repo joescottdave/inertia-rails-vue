@@ -51,3 +51,5 @@ group :development do
   # gem "spring"
 end
 
+
+gem "standard", "~> 1.36"
