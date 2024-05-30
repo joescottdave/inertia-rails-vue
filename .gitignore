@@ -31,3 +31,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
